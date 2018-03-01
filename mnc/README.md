@@ -1,3 +1,5 @@
+_([to the English text](#in-english))_
+
 Il Museo Nazionale del Cinema (MNC) di Torino, Italia, è uno dei più importanti musei cinematografici al mondo. Conserva un’imponente collezione di manifesti cinematografici, una collezione di pellicole ed una biblioteca chi comprende 20.000 apparecchi, dipinti e stampe, oltre 80.000 documenti fotografici, oltre 300.000 manifesti, 12.000 film e 26.000 volumi.
 
 La Bibliomediateca “Mario Gromo” del MNC conserva un fondo di riviste del cinema muto italiano, il più importante in Italia dopo quello della Biblioteca Nazionale di Firenze: dalle grandi testate corporative (“La Vita Cinematografica”, “La Cinematografia Italiana ed Estera” ecc.), alle riviste d’arte (“Apollon”, “L’arte muta”, “In penombra”), ai periodici popolari (“Al cinemà”, “Cinema Star”, “Cine Sorriso Illustrato” ecc.). Il fondo conta circa 2500 fascicoli, corrispondenti a oltre 80.000 pagine.
@@ -9,6 +11,8 @@ Questo github repo presenta le liste complete delle [monografie](./mnc_monografi
 Un grande ringraziamento al MNC per questa preziosa risorsa!
 
 <hr>
+
+#### In English
 
 The Museo Nazionale del Cinema (MNC) of Turin, Italy, is one of the most important cinema museums in the world. It conserves an impressive collection that includes 20,000 objects, paintings and prints, over 80,000 photographic documents, over 300,000 posters, 12,000 films, and 26,000 volumes.
 
