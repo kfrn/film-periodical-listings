@@ -4,12 +4,14 @@
 >
 > Today, they are freely accessible on the e-periodica journal portal of the [ETH-Bibliothek](https://www.e-periodica.ch/). The two digitization projects _Kinema_ and _Historical Swiss Film Magazines_ were realized between 2010-2011 and 2015-2018.
 
-source: [Digitalisierte historische Filmzeitschriften aus der Schweiz (1913–1944)](http://www.film.uzh.ch/d/bibliothek/zeitschriften/historical.html)
+source: [Digitalisierte historische Filmzeitschriften aus der Schweiz (1913–1944)](http://www.film.uzh.ch/de/bibliothek/zeitschriften/historical.html)
 
 ### Data
 
-* Journal volumes: [journal_volumes.csv]()
-* Journal issues: [journal_issues.csv]()
+1. [Journal volume listing](./journal_volumes.csv)
+2. [Journal issues listing](./journal_issues.csv)
+
+## Process
 
 I compiled this data via the following steps:
 1. Retrieved volume-level data and wrote results out to `journal_volumes.csv`
